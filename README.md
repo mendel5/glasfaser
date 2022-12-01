@@ -1,5 +1,6 @@
 # glasfaser
 Information about Glasfaser / Fibre internet
+- Fritzbox-Oberfläche --> Assistenten --> Internetzugang einrichten --> Telekom Glasfaser-Anschluss --> Empfohlen mit EasySupport
 
 ## Links
 - https://www.windows-faq.de/2022/04/17/installation-einer-fritzbox-an-einem-telekom-glasfaser-modem-2/
