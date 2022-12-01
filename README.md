@@ -13,3 +13,4 @@ Information about Glasfaser / Fibre internet
 - https://telekomhilft.telekom.de/t5/Geraete-Zubehoer/ist-die-fritz-box-7590-fuer-glasfaser-geeignet/td-p/5704314
 - https://telekomhilft.telekom.de/t5/Blog/Meine-Erfahrungen-bei-einem-gefoerderten-Glasfaser-Ausbau/bc-p/5690106
 - https://www.telekom.de/hilfe/festnetz-internet-tv/anschluss-verfuegbarkeit/anschlussvarianten/glasfaseranschluss/avm-fritzbox?samChecked=true
+- https://telekomhilft.telekom.de/t5/Telefonie-Internet/Umstellung-DSL-auf-Glasfser/td-p/5289385 Abschaltung
