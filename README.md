@@ -1,7 +1,7 @@
 # glasfaser
 Information about Glasfaser / Fibre internet
 - How to physically install fibre internet
-- How to switch from DSL to fibre for a Fritzbox
+- How to switch from DSL to fibre on a Fritzbox
 
 ## Anleitung
 - Fritzbox-Oberfläche --> Assistenten --> Internetzugang einrichten --> Telekom Glasfaser-Anschluss --> Empfohlen mit EasySupport
