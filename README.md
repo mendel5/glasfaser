@@ -25,6 +25,8 @@ Information about fiber internet / Glasfaser
 
 ## Telekom Glasfaser
 - https://www.telekom.de/netz/glasfaser
+- https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router/glasfaser-modem-2
+- https://www.telekom.de/hilfe/downloads/bedienungsanleitungen-glasfaser-modem-2.pdf
 
 ## Vodafone Glasfaser
 - https://zuhauseplus.vodafone.de/internet-telefon/glasfaser/
