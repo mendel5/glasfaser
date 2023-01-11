@@ -23,6 +23,9 @@ Information about fiber internet / Glasfaser
 - https://www.telekom.de/hilfe/festnetz-internet-tv/anschluss-verfuegbarkeit/anschlussvarianten/glasfaseranschluss/avm-fritzbox?samChecked=true
 - https://telekomhilft.telekom.de/t5/Telefonie-Internet/Umstellung-DSL-auf-Glasfser/td-p/5289385 Abschaltung
 
+## Telekom Glasfaser
+- https://www.telekom.de/netz/glasfaser
+
 ## o2 Glasfaser
 - https://www.o2online.de/internet-festnetz/glasfaser/
 - https://www.o2online.de/internet-festnetz/glasfaser/faq/
