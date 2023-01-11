@@ -26,9 +26,13 @@ Information about fiber internet / Glasfaser
 ## Telekom Glasfaser
 - https://www.telekom.de/netz/glasfaser
 
+## Vodafone Glasfaser
+- https://zuhauseplus.vodafone.de/internet-telefon/glasfaser/
+
 ## o2 Glasfaser
 - https://www.o2online.de/internet-festnetz/glasfaser/
 - https://www.o2online.de/internet-festnetz/glasfaser/faq/
 
-## Vodafone Glasfaser
-- https://zuhauseplus.vodafone.de/internet-telefon/glasfaser/
+## 1und1 Glasfaser
+- https://www.1und1.de/glasfaser/
+- https://www.1und1.de/glasfaseranschluss
