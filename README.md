@@ -29,7 +29,7 @@ Information about fiber internet / Glasfaser
 - https://telekomhilft.telekom.de/t5/Telefonie-Internet/Umstellung-DSL-auf-Glasfser/td-p/5289385 Abschaltung
 
 ## Bilder
-- Telekom Glasfaser Modem 2: Unterseite, sodass man die Anschlüsse sieht:
+- Telekom Glasfaser Modem 2 - Unterseite, sodass man die Anschlüsse sieht:
   - https://cdn.shopify.com/s/files/1/0252/3578/3752/products/4190cfc9894e006ef7fb531e2adaad3b.jpg
   - https://web.archive.org/web/20230307174711/https://cdn.shopify.com/s/files/1/0252/3578/3752/products/4190cfc9894e006ef7fb531e2adaad3b.jpg
   - https://archive.is/V9SOP
