@@ -8,7 +8,12 @@ Information about fiber internet / Glasfaser
 - https://github.com/mendel5/telekom
 
 ## Anleitung
-- Fritzbox-Oberfläche --> Assistenten --> Internetzugang einrichten --> Telekom Glasfaser-Anschluss --> Empfohlen mit EasySupport
+- Fritzbox-Oberfläche aufrufen über `fritz.box`
+- `Assistenten`
+- `Internetzugang einrichten`
+- Ausklappliste/ Dropdown: `Telekom`
+- Abschnitt: `Telekom Glasfaser-Anschluss`
+- Menüpunkt: `Empfohlen: Automatische Einrichtung des Internetzugangs mit EasySupport`
 
 ## Links
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7590/1167_FRITZ-Box-am-Glasfaseranschluss-einrichten/ Anleitung von AVM
