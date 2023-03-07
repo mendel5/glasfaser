@@ -17,7 +17,7 @@ Information about fiber internet / Glasfaser
 
 ## Links
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7590/1167_FRITZ-Box-am-Glasfaseranschluss-einrichten/ Anleitung von AVM
-- https://www.windows-faq.de/2022/04/17/installation-einer-fritzbox-an-einem-telekom-glasfaser-modem-2/ Foto vom Modem-Web-Interface (Oberfläche) und IP, Telekom Glasfaser Modem 2
+- https://www.windows-faq.de/2022/04/17/installation-einer-fritzbox-an-einem-telekom-glasfaser-modem-2/ Foto vom Web-Interface und der IP des Modems, Telekom Glasfaser Modem 2
 - https://www.telekom.de/hilfe/downloads/bedienungsanleitungen-glasfaser-modem-2.pdf Bedienungsanleitung Glasfaser Modem 2
 - https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router/glasfaser-modem-2 Glasfaser Modem 2 kaufen
 - https://www.telekom.de/hilfe/downloads/bedienungsanleitungen-glasfaser-modem.pdf Alt: Bedienungsanleitung Glasfaser Modem 1
