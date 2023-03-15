@@ -27,11 +27,11 @@ Information about fiber internet / Glasfaser
 - https://telekomhilft.telekom.de/t5/Blog/Meine-Erfahrungen-bei-einem-gefoerderten-Glasfaser-Ausbau/bc-p/5690106
 - https://www.telekom.de/hilfe/festnetz-internet-tv/anschluss-verfuegbarkeit/anschlussvarianten/glasfaseranschluss/avm-fritzbox?samChecked=true
 - https://telekomhilft.telekom.de/t5/Telefonie-Internet/Umstellung-DSL-auf-Glasfser/td-p/5289385 Abschaltung DSL
-- https://avm.de/service/freie-routerwahl/
-- https://avm.de/service/freie-routerwahl/fritzbox-am-telekom-glasfaseranschluss-einrichten/
-- https://www.telekom.de/hilfe/festnetz-internet-tv/anschluss-verfuegbarkeit/anschlussvarianten/glasfaseranschluss/welche-router-fuer-glasfaseranschluss
-- https://telekomhilft.telekom.de/t5/Telefonie-Internet/Glasfaseranschluss-Wechsel-auf-FRITZ-Box-5590/td-p/5757209
-- https://telekomhilft.telekom.de/t5/Telefonie-Internet/Installation-Fritzbox-5590-ONT-Kennung/td-p/5896049
+- https://avm.de/service/freie-routerwahl/ AVM: Freie Routerwahl
+- https://avm.de/service/freie-routerwahl/fritzbox-am-telekom-glasfaseranschluss-einrichten/ AVM: FRITZ!Box Fiber am Telekom-Glasfaseranschluss einrichten
+- https://www.telekom.de/hilfe/festnetz-internet-tv/anschluss-verfuegbarkeit/anschlussvarianten/glasfaseranschluss/welche-router-fuer-glasfaseranschluss Welche Router sind für den Telekom-Glasfaser-Anschluss geeignet?
+- https://telekomhilft.telekom.de/t5/Telefonie-Internet/Glasfaseranschluss-Wechsel-auf-FRITZ-Box-5590/td-p/5757209 Telekom: Glasfaseranschluss, Wechsel auf FRITZ!Box 5590
+- https://telekomhilft.telekom.de/t5/Telefonie-Internet/Installation-Fritzbox-5590-ONT-Kennung/td-p/5896049 Telekom: Installation Fritzbox 5590, ONT-Kennung
 
 ## Bilder
 - Telekom Glasfaser Modem 2 - Unterseite, sodass man die Anschlüsse sieht:
