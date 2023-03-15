@@ -21,12 +21,12 @@ Information about fiber internet / Glasfaser
 - https://www.telekom.de/hilfe/downloads/bedienungsanleitungen-glasfaser-modem-2.pdf Bedienungsanleitung Glasfaser Modem 2
 - https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router/glasfaser-modem-2 Glasfaser Modem 2 kaufen
 - https://www.telekom.de/hilfe/downloads/bedienungsanleitungen-glasfaser-modem.pdf Alt: Bedienungsanleitung Glasfaser Modem 1
-- https://telekomhilft.telekom.de/t5/Telefonie-Internet/Fritzbox-7590-mit-Glasfaser-verbinden/td-p/3905998
-- https://telekomhilft.telekom.de/t5/Telefonie-Internet/Geschwindigkeiten-bei-FTTH/ta-p/2820911
-- https://telekomhilft.telekom.de/t5/Geraete-Zubehoer/ist-die-fritz-box-7590-fuer-glasfaser-geeignet/td-p/5704314
-- https://telekomhilft.telekom.de/t5/Blog/Meine-Erfahrungen-bei-einem-gefoerderten-Glasfaser-Ausbau/bc-p/5690106
-- https://www.telekom.de/hilfe/festnetz-internet-tv/anschluss-verfuegbarkeit/anschlussvarianten/glasfaseranschluss/avm-fritzbox?samChecked=true
-- https://telekomhilft.telekom.de/t5/Telefonie-Internet/Umstellung-DSL-auf-Glasfser/td-p/5289385 Abschaltung DSL
+- https://telekomhilft.telekom.de/t5/Telefonie-Internet/Fritzbox-7590-mit-Glasfaser-verbinden/td-p/3905998 Telekom: Fritzbox 7590 mit Glasfaser verbinden
+- https://telekomhilft.telekom.de/t5/Telefonie-Internet/Geschwindigkeiten-bei-FTTH/ta-p/2820911 Telekom: Geschwindigkeiten bei FTTH
+- https://telekomhilft.telekom.de/t5/Geraete-Zubehoer/ist-die-fritz-box-7590-fuer-glasfaser-geeignet/td-p/5704314 Telekom: Ist die Fritzbox 7590 für Glasfaser geeignet?
+- https://telekomhilft.telekom.de/t5/Blog/Meine-Erfahrungen-bei-einem-gefoerderten-Glasfaser-Ausbau/bc-p/5690106 Telekom: Erfahrungen bei einem geförderten Glasfaser-Ausbau
+- https://www.telekom.de/hilfe/festnetz-internet-tv/anschluss-verfuegbarkeit/anschlussvarianten/glasfaseranschluss/avm-fritzbox?samChecked=true Telekom: Anleitung einer Glasfaser-kompatiblen AVM FRITZ!Box am Telekom Glasfaser-Anschluss
+- https://telekomhilft.telekom.de/t5/Telefonie-Internet/Umstellung-DSL-auf-Glasfser/td-p/5289385 Telekom: Umstellung DSL auf Glasfaser, Abschaltung DSL
 - https://avm.de/service/freie-routerwahl/ AVM: Freie Routerwahl
 - https://avm.de/service/freie-routerwahl/fritzbox-am-telekom-glasfaseranschluss-einrichten/ AVM: FRITZ!Box Fiber am Telekom-Glasfaseranschluss einrichten
 - https://www.telekom.de/hilfe/festnetz-internet-tv/anschluss-verfuegbarkeit/anschlussvarianten/glasfaseranschluss/welche-router-fuer-glasfaseranschluss?samChecked=true Welche Router sind für den Telekom-Glasfaser-Anschluss geeignet?
