@@ -18,7 +18,7 @@ Information about fiber internet / Glasfaser
 ## Links
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7590/1167_FRITZ-Box-am-Glasfaseranschluss-einrichten/ FRITZ!Box 7590 am Glasfaseranschluss einrichten
 - https://www.windows-faq.de/2022/04/17/installation-einer-fritzbox-an-einem-telekom-glasfaser-modem-2/ Foto vom Web-Interface und der IP vom Telekom Glasfaser Modem 2
-  - Für die Transkription vom Foto siehe unten
+  - Für die Transkription des Fotos siehe unten
 - https://www.telekom.de/hilfe/downloads/bedienungsanleitungen-glasfaser-modem-2.pdf Telekom: Bedienungsanleitung Glasfaser Modem 2
 - https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router/glasfaser-modem-2 Telekom: Glasfaser Modem 2 kaufen
 - https://www.telekom.de/hilfe/downloads/bedienungsanleitungen-glasfaser-modem.pdf (veraltet) Telekom: Bedienungsanleitung Glasfaser Modem 1
@@ -57,6 +57,25 @@ Information about fiber internet / Glasfaser
 - https://www.1und1.de/glasfaseranschluss
 
 ## Telekom Glasfaser Modem 2
-Transkription des Fotos von der Oberfläche vom Telekom Glasfaserm Modem 2
+- Transkription des Fotos von der Oberfläche vom Telekom Glasfaserm Modem 2
+- Datum der Aufnahme bzw. des Uploads vom Foto: 2022-02 bzw. Februar 2022
+- Link zum Foto: https://www.windows-faq.de/wp-content/uploads/2022/02/Glasfaser-Modem-2.png
 
+**Allgemein**
+- `FW-Version aktiv` `090144.1.0.001`
+- `FW-Version Standby` `090144.1.0.001`
+- `Hardware-Status` `Ok`
 
+**LAN-Schnittstelle**
+- `TxPackets` `4031`
+- `TxBytes` `3662388`
+- `RxPackets` `2482`
+- `RxBytes` `334121`
+- `RxDrop Packets` `0`
+- `Link-Status` `1000 MBit/s`
+- `Stabilität` `54 s`
+
+**PON-Schnittstelle**
+- `TxPower` `2.40 dBm`
+- `RxPower` `-13.52 dBm`
+- `RxBiP / CRC` `0`
