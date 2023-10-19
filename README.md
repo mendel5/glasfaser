@@ -8,6 +8,7 @@ Information about fiber internet / Glasfaser
 - https://github.com/mendel5/telekom
 
 ## Anleitung
+Anleitung, wie man eine DSL-Fritzbox, z.B. eine Fritzbox 7590, vom DSL-Modus auf den Glasfaser-Modus umstellt. Der Glasfaser-Modus setzt voraus, dass die DSL-Fritzbox mit einem Glasfaser-Modem betrieben wird.
 - Fritzbox-Oberfläche aufrufen über `fritz.box`
 - `Assistenten`
 - `Internetzugang einrichten`
