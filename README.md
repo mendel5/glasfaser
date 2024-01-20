@@ -3,7 +3,7 @@ Information about fiber internet / Glasfaser
 - How to physically install fiber internet
 - How to switch from DSL to fiber on a Fritzbox
 
-## Siehe auch
+See also / Siehe auch:
 - https://github.com/mendel5/internet-access
 - https://github.com/mendel5/telekom
 
